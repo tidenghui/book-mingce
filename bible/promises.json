@@ -1,0 +1,202 @@
+[
+  {
+    "id": "g1-1",
+    "text": "丙七册末页为何出现陆沉名字的新墨字，是谁写的、意味着什么，尚未交代。",
+    "plantedAt": 1,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g1-2",
+    "text": "老顾钥匙串上内层册库那把钥匙不见了，空环意味着什么、钥匙在谁手里，尚未交代。",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g2-1",
+    "text": "老顾钥匙串上第五把钥匙磨得特别亮、齿口浅了一截，陆沉问开哪扇门，老顾不答只让他走——这把钥匙开哪扇门、为何特别亮，尚未交代。",
+    "plantedAt": 2,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "凌汐说存根上那个淡墨指印越看越觉得在哪儿见过，不是人名册上的，但记不准没说出口——那指印她到底在哪儿见过。",
+    "plantedAt": 3,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-2",
+    "text": "界河路岔口界石根下摸出的断麻绳头沾着淡墨，与存根指印同源；绳头是谁留下的、为何断在界石下。",
+    "plantedAt": 3,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g4-1",
+    "text": "第六任卷宗里那张瘦脸短须男子画像背面的两个浅铅笔字，尚未认出。",
+    "plantedAt": 4,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g4-2",
+    "text": "老顾说会打双套结的两人一个调去管仓、一个告了病，告病者与销号底册上的号如何对应，尚未交代。",
+    "plantedAt": 4,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g5-1",
+    "text": "消墨刀柄上刻的“册子还在”指哪一本册子——丙七架上陆沉自己那本，还是沈师傅自己那本，尚未交代。",
+    "plantedAt": 5,
+    "dueBy": 13,
+    "paidAt": 13,
+    "importance": 3
+  },
+  {
+    "id": "g5-2",
+    "text": "井盖常被掀却无记档，是谁掀的、掀下去做什么，尚未交代。",
+    "plantedAt": 5,
+    "dueBy": 13,
+    "paidAt": 13,
+    "importance": 2
+  },
+  {
+    "id": "g6-1",
+    "text": "封存柜第二层底下浆糊封死的牛皮纸封套里是什么，陆沉摸到但未打开。",
+    "plantedAt": 6,
+    "dueBy": 17,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g6-2",
+    "text": "刀柄麻线缝里抠出的干墨渣（色褐、非新墨）是谁留下的、意味着什么。",
+    "plantedAt": 6,
+    "dueBy": 12,
+    "paidAt": 13,
+    "importance": 2
+  },
+  {
+    "id": "g7-1",
+    "text": "老顾说“这道折缝压给谁看，你猜不着，我也不说”——折缝真正压给谁看尚未交代。",
+    "plantedAt": 7,
+    "dueBy": 11,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g7-2",
+    "text": "老顾给陆沉的半块墨锭底面刻字磨得只剩三笔，认不出是什么字，也说是“朋友留下的”——这个朋友和字尚未交代。",
+    "plantedAt": 7,
+    "dueBy": 12,
+    "paidAt": 14,
+    "importance": 1
+  },
+  {
+    "id": "g8-1",
+    "text": "陆沉第三份油纸包口没封严，里面墨块比前两份压得实，是谁经手、为何如此，尚未交代。",
+    "plantedAt": 8,
+    "dueBy": 12,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g9-1",
+    "text": "沈师傅说“空着的那一页是留给下一个人的”——“下一个人”指谁，尚未交代。",
+    "plantedAt": 9,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g9-2",
+    "text": "沈师傅写的那张抄录纸编号两位数、开头是二，纸入档在他那一卷里，但第四页已失，纸是否还在、被谁动过，尚未交代。",
+    "plantedAt": 9,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g10-1",
+    "text": "沈师傅断刀那夜三层最东头那扇窗开着，谁在上头、窗为何开着，尚未交代。",
+    "plantedAt": 10,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g10-2",
+    "text": "沈师傅刀柄内掉出的纸片上数字“二”和半截横折钩笔画指什么，尚未交代。",
+    "plantedAt": 10,
+    "dueBy": 14,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g11-1",
+    "text": "沈师傅旧状批语日期晚于其入轮回之日，批语落纸时人已不在，流程在等期限过去——谁批的、为何拖到人走才落纸，尚未交代。",
+    "plantedAt": 11,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g12-1",
+    "text": "底簿边角沈师傅铅笔批的“入轮回前提过一页空册”指哪一页空册、为何提它，尚未交代。",
+    "plantedAt": 12,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g12-2",
+    "text": "老顾指甲缝里那点褐色旧墨是谁的墨、何时嵌进去的，尚未交代。",
+    "plantedAt": 12,
+    "dueBy": 17,
+    "paidAt": null,
+    "importance": 1
+  },
+  {
+    "id": "g13-1",
+    "text": "周勉说明天此时由他来销那页，销页时会发生什么、他是否真销，尚未交代。",
+    "plantedAt": 13,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g13-2",
+    "text": "丙七架板底下那本无编号空蓝布册是谁藏的、为何中缝有刀痕且全空，尚未交代。",
+    "plantedAt": 13,
+    "dueBy": 18,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g14-1",
+    "text": "老顾说丙七架新痕是有人走之前留的，留的什么尚未交代。",
+    "plantedAt": 14,
+    "dueBy": 20,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g14-2",
+    "text": "老顾说那夜人不是从门走的，那夜发生了什么、人从哪走的尚未交代。",
+    "plantedAt": 14,
+    "dueBy": 20,
+    "paidAt": null,
+    "importance": 2
+  }
+]

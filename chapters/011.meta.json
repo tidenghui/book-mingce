@@ -1,0 +1,51 @@
+{
+  "n": 11,
+  "title": "加急",
+  "status": "accepted",
+  "wordCount": 2447,
+  "summary": "陆沉将状纸划去“疑有人添墨”五字，改为求查，折好交周勉登记。周勉告知加急也需一月，且此状将与沈师傅旧状同压三层。陆沉在门房残档箱第十七页翻出沈师傅旧状，批语“留中不发”的日期晚于沈师傅入轮回之日，意识到流程是在等期限过去。",
+  "coldRead": {
+    "votes": 3,
+    "total": 3,
+    "notes": [
+      "老书虫：继续 — 官僚流程吃人的设定够狠，但把每层意思都解释两遍，读者没那么容易忘",
+      "通勤读者：继续 — 这章把时间差玩明白了，人走了才批，批了也白批，看得我后背发凉",
+      "解谜读者：继续 — 一章全靠对日期和数流程撑起来，没打没杀反而最揪人，周勉那句跟沈师傅搁在一格里够冷"
+    ]
+  },
+  "critics": [
+    {
+      "name": "连续性编辑",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "角色一致性",
+      "score": 6,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "节奏编辑",
+      "score": 5,
+      "verdict": "revise",
+      "defects": 6
+    },
+    {
+      "name": "逻辑审查",
+      "score": 7,
+      "verdict": "revise",
+      "defects": 5
+    },
+    {
+      "name": "文风审查",
+      "score": 4,
+      "verdict": "revise",
+      "defects": 6
+    }
+  ],
+  "revisions": 0,
+  "costCny": 0.311,
+  "createdAt": "2026-10-24T15:44:56.280Z"
+}
